@@ -1,0 +1,54 @@
+.form__container,
+.tabel__content{
+  padding: 1rem;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+  box-shadow: -1px 6px 10px rgba(0, 0, 0, .3);
+}
+
+.form__title{
+    margin: 0 0 .5rem 0;
+    background-color: rgba(252,104,69,1);
+}
+  
+input[type="text"],
+input[type="email"],
+input[type="number"]{
+    color: #fff;
+    border-radius: 6px;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    outline: none;
+    display: block;
+    width: 100%;
+    font-size: 1rem;
+    line-height: 1;
+    background-color: transparent;
+    border: thin solid #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, .3);
+    box-sizing: border-box;
+}
+
+.btn-style{
+    padding: .5rem 1rem;
+    color: #fff;
+    border-style: none;
+    margin: 10px;
+    display: inline-block;
+    outline: none;
+    font-size: 1rem;
+    line-height: 1;
+    text-transform: none;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 7px;
+    border: 1px solid #fff;
+    background: transparent;
+    cursor: pointer;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, .3);
+}
+
+.btn-style:hover{
+    background: rgb(103, 103, 103);
+}
+  

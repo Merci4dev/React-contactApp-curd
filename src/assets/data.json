@@ -1,0 +1,26 @@
+{
+    "initiaDB": [
+        {
+            "id":1,
+            "name": "Merci",
+            "lastname":"Lopes",
+            "age":50,
+            "email":"lopes@gmail.es"
+          },
+          {
+            "id" :2,
+            "name" : "Lucho",
+            "lastname" :"Mendex",
+            "age" :30,
+            "email" :"lucho@gmail.es"
+          },
+        
+          {
+            "id":3,
+            "name": "Maria",
+            "lastname":"Peraz",
+            "age":20,
+            "email": "maria@gmail.com"
+          }
+    ]
+}

@@ -1,0 +1,16 @@
+
+
+.table__content{
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 1rem;
+/* text-align: left; */
+border-radius: 10px;
+background: rgba(0, 0, 0, 0.584);
+box-shadow: -1px 6px 10px rgba(0, 0, 0, .3);
+}
+
+.table__content thead td{
+    color: rgba(252,104,69,1);
+}
